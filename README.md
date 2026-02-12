@@ -1,5 +1,5 @@
 # first
 First Git Repository
 <br>
-Author-Aditya(Manipal)
+Author-Aditya(Manipal Institue OF Tech)
 
